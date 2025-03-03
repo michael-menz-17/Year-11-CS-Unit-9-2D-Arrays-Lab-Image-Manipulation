@@ -37,7 +37,7 @@ This lab includes two packages within the src folder: code and image. If you ope
 | Pixel clone() | Returns a copy of this pixel |
 | String toString() | Returns the string representation of the pixel (red, green, and blue values) |
 
-There are six challenges in this lab (challenge 0, challenge 1, challenge 2, challenge 3, challenge 4, and challenge 5). To complete this lab, you will need to complete challenges 0, 1, 2, and 3. Challenges 4 and 5 are optional and you should only attempt them if you are, like, really confident and are really feeling yourself #slay. Each challenge involves manipulating an image. The image that you will be manipulating is located in your project and is called <b>cyberpunk2077.jpg</b>.
+There are six challenges in this lab (challenge 0, challenge 1, challenge 2, challenge 3, challenge 4, and challenge 5). To complete this lab, you will need to complete challenges 0, 1, 2, 3, 4 and 5. Each challenge involves manipulating an image. The image that you will be manipulating is located in your project and is called <b>cyberpunk2077.jpg</b>.
 
 Below are examples of what your output should look like after calling each method.
 
